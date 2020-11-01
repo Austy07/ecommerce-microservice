@@ -1,3 +1,4 @@
+//kubectl create secret generic jwt-secret --from-literal=JWT_KEY=as45tgg5443fghe
 import mongoose from 'mongoose';
 
 import { app } from './app';
